@@ -1,0 +1,6 @@
+spotify_songs.csv
+*.csv
+*.wav
+*.mp3
+__pycache__/
+.env
